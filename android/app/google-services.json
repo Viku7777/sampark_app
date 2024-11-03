@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44078972937",
+    "project_id": "sampark-f6b6c",
+    "storage_bucket": "sampark-f6b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44078972937:android:acb3744c12868c658e78d8",
+        "android_client_info": {
+          "package_name": "com.vixhkey.sampark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0I-BTc8kTxl6GDSS6ERhKyDVGbWKe4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
